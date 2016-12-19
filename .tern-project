@@ -1,0 +1,17 @@
+{
+  "ecmaVersion": 6,
+  "libs": [],
+  "plugins": {
+    "modules": {
+      "dontLoad": "",
+      "load": "",
+      "modules": ""
+    },
+    "es_modules": {},
+    "node": {
+      "dontLoad": "",
+      "load": "",
+      "modules": ""
+    }
+  }
+}

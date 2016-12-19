@@ -1,0 +1,39 @@
+$blackish: #393a39;
+$theGreen:#006400;
+body{
+margin: 0;
+padding: 0;
+background-color: $blackish;
+}
+
+.contianer{
+margin:0 auto;
+padding: 0;
+  background-color: $theGreen;
+}
+
+
+.jumbotron{
+  position: relative;
+  top: 5%;
+  min-height: 60vh;
+}
+.theList{
+  width: 100%;
+}
+.page-header{
+  margin: 0;
+}
+h1{
+  margin: 0;
+}
+#camperList{
+
+  margin: 0 auto;
+}
+
+.iconss{
+
+  height: 2vw;
+  width: 2vw;
+}
